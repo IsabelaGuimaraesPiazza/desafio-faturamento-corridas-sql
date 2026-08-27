@@ -5,7 +5,7 @@ Este repositório contém a resolução de um desafio de SQL voltado para a inte
 O projeto treina conceitos essenciais de bancos de dados relacionais, com foco em funções de agregação (`SUM`), agrupamento de dados (`GROUP BY`), filtros pós-agrupamento (`HAVING`), filtros condicionais (`WHERE`) e ordenação de resultados.
 
 
-## 📝 O Enunciado do Desafio
+## O Enunciado do Desafio
 A equipe de operações de um aplicativo de transporte precisa calcular o bônus de incentivo para as categorias de carros mais rentáveis. No entanto, a análise deve contabilizar exclusivamente as viagens pagas via **'Cartão'**.
 
 A consulta deve retornar a **categoria_carro** e a **soma total do valor_corrida** seguindo os critérios abaixo:
